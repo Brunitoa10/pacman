@@ -1,0 +1,8 @@
+pacman
+pacman.exe
+pacman_tests
+pacman_tests.exe
+*.o
+*.obj
+
+pacman_gui.exe
